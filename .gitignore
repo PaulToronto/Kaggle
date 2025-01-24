@@ -1,1 +1,10 @@
+# mac specific
 .DS_Store
+
+# data directories
+two-sigma-connect-rental-listing-inquiries/data/
+new-york-city-taxi-fare-prediction/data/
+
+# Ignore Python bytecode cache
+__pycache__/
+*.py[cod]
